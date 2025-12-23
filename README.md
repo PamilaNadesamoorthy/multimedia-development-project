@@ -4,7 +4,7 @@ This is a 5-minute animated video created for my Multimedia Development module u
 
 ## Files
 - `project.aep` – Adobe After Effects source project  
-- Final video (`video.mp4`) is not included due to file size, but can be provided on request or viewed via an external link if available.
+- Final video (`video.mp4`) is not included due to file size, but can be viewed via an external link provided.
 
 ## Skills Demonstrated
 - Adobe After Effects animation
